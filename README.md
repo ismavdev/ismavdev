@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Ismael Valerón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Ismael </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![Banner](github-header-banner.png)
 
@@ -36,7 +36,6 @@ I am a dedicated fullstack developer focused on writing clean, efficient code an
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/ismavdev"><img src="https://img.shields.io/badge/Ismael%20Valerón%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ismaelvaherndev@gmail.com"><img src="https://img.shields.io/badge/-ismaelvaherndev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
